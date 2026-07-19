@@ -1,8 +1,8 @@
 <div align="center">
 
-# Matheus Vivas Rocha
+# Matheus Antonio Vivas Rocha
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=580&lines=Engenharia%20El%C3%A9trica%20%40%20EESC-USP%20%E2%9A%A1;Sistemas%20de%20Pot%C3%AAncia%20%26%20Simula%C3%A7%C3%A3o%20Computacional;Mestrado%20%40%20LACSEP%20-%20Estabilidade%20de%20Tens%C3%A3o%20do%20SIN;Criador%20do%20pynatem%20%F0%9F%93%A6;Do%20fluxo%20de%20pot%C3%AAncia%20ao%20ESP32%20%F0%9F%94%8C" alt="Frases animadas sobre o perfil de Matheus Vivas Rocha" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=580&lines=Engenharia%20El%C3%A9trica%20%40%20EESC-USP%20%E2%9A%A1;Sistemas%20de%20Pot%C3%AAncia%20%26%20Simula%C3%A7%C3%A3o%20Computacional;Criador%20do%20pynatem%20%F0%9F%93%A6;Do%20fluxo%20de%20pot%C3%AAncia%20ao%20ESP32%20%F0%9F%94%8C" alt="Frases animadas sobre o perfil de Matheus Vivas Rocha" />
 
 [![X](https://img.shields.io/badge/X-%40matheusvivasr-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/matheusvivasr)
 [![Email](https://img.shields.io/badge/email-vivas.matheus%40usp.br-blue?style=flat&logo=gmail&logoColor=white)](mailto:vivas.matheus@usp.br)
@@ -15,12 +15,11 @@
 
 ### 👋 Sobre mim
 
-Engenheiro Eletricista formado pela **EESC‑USP** (São Carlos), com foco em **sistemas de potência computacionais**. Atualmente no **mestrado, no [LACSEP](https://github.com/LACSEP)**, pesquisando **margem de estabilidade de tensão do SIN sob eventos nacionais de carga**.
+**Engenharia Elétrica** na **EESC‑USP** (São Carlos), com foco em **sistemas de potência computacionais**.
 
 Desenvolvo bibliotecas open‑source em Python que conversam com os principais simuladores do setor elétrico brasileiro — **ANAREDE** (fluxo de potência) e **ANATEM** (estabilidade eletromecânica transitória), ambos do CEPEL — e, nas horas vagas, levo o mesmo rigor para o **hardware**: firmware em ESP32 e ferramentas de linguagem.
 
 - 🔭 `pynatem` publicado e estável no PyPI — a base do que faço em simulação
-- 🎓 Mestrado em andamento: **VSM(t)** do SIN → famílias de curvas + superfície de risco (motor ANAREDE)
 - 🔌 Do software ao ferro: firmware ESP32 (ESP‑NOW, sensores capacitivos, SSR) e uma extensão de VS Code
 - 🦈 Pull Shark no GitHub — PRs mesclados em outros projetos
 - 💬 Fale comigo sobre **sistemas de potência, simulação computacional, Python científico ou embarcados**
@@ -51,7 +50,6 @@ pip install pynatem
 |---|---|
 | 📦 **[pynatem](https://github.com/matheusvivasr/pynatem)** | Geração/parsing de casos `.stb` do **ANATEM** — *roundtrip* fiel ao Manual CEPEL (publicado no PyPI) |
 | ⚡ **[newton-powerflux](https://github.com/matheusvivasr/newton-powerflux)** | Solver de **fluxo de potência** por Newton‑Raphson, compatível com arquivos padrão ANAREDE |
-| 🎓 *Mestrado @ [LACSEP](https://github.com/LACSEP)* | Margem de estabilidade de tensão (**VSM**) do **SIN** sob trajetória nacional de carga → superfície de risco (motor ANAREDE: continuação EXIC, colapso EXPC, N‑1, QLIM) |
 
 ---
 
@@ -93,16 +91,7 @@ pip install pynatem
 ### 📊 GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=matheusvivasr&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de matheusvivasr" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvivasr&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por matheusvivasr" />
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com/?user=matheusvivasr&theme=tokyonight&hide_border=true" alt="Streak de contribuições de matheusvivasr" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=matheusvivasr&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Troféus de GitHub de matheusvivasr" />
 </div>
 
 ---
