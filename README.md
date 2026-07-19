@@ -6,10 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=580&lines=Engenharia%20El%C3%A9trica%20%40%20EESC-USP%20%E2%9A%A1;Sistemas%20de%20Pot%C3%AAncia%20%26%20Simula%C3%A7%C3%A3o%20Computacional;Criador%20do%20pynatem%20%F0%9F%93%A6;Do%20fluxo%20de%20pot%C3%AAncia%20ao%20ESP32%20%F0%9F%94%8C" alt="Frases animadas sobre o perfil de Matheus Antonio Vivas Rocha" />
 
-<a href="#-sobre-mim"><img src="https://img.shields.io/badge/Sobre-1D9E75?style=flat-square" alt="Sobre"></a>
-<a href="#-projetos"><img src="https://img.shields.io/badge/Projetos-1D9E75?style=flat-square" alt="Projetos"></a>
-<a href="#-stack"><img src="https://img.shields.io/badge/Stack-1D9E75?style=flat-square" alt="Stack"></a>
-<a href="#-github"><img src="https://img.shields.io/badge/Stats-1D9E75?style=flat-square" alt="Stats"></a>
+**[Sobre](#-sobre-mim)** &nbsp;·&nbsp; **[Projetos](#-projetos)** &nbsp;·&nbsp; **[Stack](#-stack)** &nbsp;·&nbsp; **[GitHub](#-github)**
 
 <!-- gravatar:links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matheusvivasr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusvivasr)
@@ -26,28 +23,18 @@
 
 ## 👋 Sobre mim
 
-**Engenharia Elétrica @ EESC‑USP**, focado em **sistemas de potência computacionais**. Gosto de resolver de **ponta a ponta** — do modelo matemático ao ferro na parede — e mantenho bibliotecas open‑source em Python para os simuladores do setor elétrico brasileiro (**ANAREDE** e **ANATEM**, do CEPEL).
+<img align="right" width="215" src="assets/jabuti.jpg" title="Faustina, a estrela do basking-spot" alt="Faustina, a jabuti do Matheus" />
 
-<table>
-<tr>
-<td valign="top">
+**Engenharia Elétrica @ EESC‑USP**, focado em **sistemas de potência computacionais**. Gosto de resolver de **ponta a ponta** — do modelo matemático ao ferro na parede — e mantenho bibliotecas open‑source em Python para os simuladores do setor elétrico brasileiro (**ANAREDE** e **ANATEM**, do CEPEL).
 
 - ⚡ Simulação de **sistemas de potência** (ANATEM / ANAREDE)
 - 🔌 Firmware **ESP32** — ESP‑NOW, sensores, deep sleep
 - 🧮 Ferramentas para **HP Prime** (linguagem PPL)
-- 🐢 Até o abrigo da **Faustina** virou projeto de ESP32
+- 🐢 Até o abrigo da **Faustina** 🐢 virou projeto de ESP32
 - 🦈 **Pull Shark** — PRs mesclados em outros projetos
 - 💬 Fale comigo sobre **potência, simulação, Python ou embarcados**
 
-</td>
-<td valign="top" align="center" width="240">
-
-<img src="assets/jabuti.jpg" width="205" alt="Faustina, a jabuti do Matheus" />
-<br><sub>🐢 <b>Faustina</b> — a estrela do <a href="https://github.com/matheusvivasr/basking-spot"><code>basking-spot</code></a></sub>
-
-</td>
-</tr>
-</table>
+<br clear="right" />
 
 ---
 
