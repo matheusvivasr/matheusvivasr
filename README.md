@@ -6,10 +6,13 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=580&lines=Engenharia%20El%C3%A9trica%20%40%20EESC-USP%20%E2%9A%A1;Sistemas%20de%20Pot%C3%AAncia%20%26%20Simula%C3%A7%C3%A3o%20Computacional;Criador%20do%20pynatem%20%F0%9F%93%A6;Do%20fluxo%20de%20pot%C3%AAncia%20ao%20ESP32%20%F0%9F%94%8C" alt="Frases animadas sobre o perfil de Matheus Antonio Vivas Rocha" />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheusvivasr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusvivasr)
 [![X](https://img.shields.io/badge/X-%40matheusvivasr-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/matheusvivasr)
 [![Email](https://img.shields.io/badge/email-vivas.matheus%40usp.br-blue?style=flat&logo=gmail&logoColor=white)](mailto:vivas.matheus@usp.br)
 ![Followers](https://img.shields.io/github/followers/matheusvivasr?label=followers&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=matheusvivasr&label=Profile%20views&color=1D9E75&style=flat)
+
+📍 São Carlos – SP, Brasil 🇧🇷
 
 </div>
 
