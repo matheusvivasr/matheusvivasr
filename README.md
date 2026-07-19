@@ -4,7 +4,7 @@
 
 # Matheus Antonio Vivas Rocha
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=580&lines=Engenharia%20El%C3%A9trica%20%40%20EESC-USP%20%E2%9A%A1;Sistemas%20de%20Pot%C3%AAncia%20%26%20Simula%C3%A7%C3%A3o%20Computacional;Criador%20do%20pynatem%20%F0%9F%93%A6;Do%20fluxo%20de%20pot%C3%AAncia%20ao%20ESP32%20%F0%9F%94%8C" alt="Frases animadas sobre o perfil de Matheus Antonio Vivas Rocha" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=620&lines=Engenharia%20El%C3%A9trica%20%40%20EESC-USP%20%E2%9A%A1;Sistemas%20de%20Pot%C3%AAncia%20%26%20Simula%C3%A7%C3%A3o;Criador%20do%20pynatem%20%F0%9F%93%A6;Do%20fluxo%20de%20pot%C3%AAncia%20ao%20ESP32%20%F0%9F%94%8C" alt="Frases animadas sobre o perfil de Matheus Antonio Vivas Rocha" />
 
 **[Sobre](#-sobre-mim)** &nbsp;·&nbsp; **[Projetos](#-projetos)** &nbsp;·&nbsp; **[Stack](#-stack)** &nbsp;·&nbsp; **[GitHub](#-github)**
 
