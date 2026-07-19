@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="https://www.gravatar.com/avatar/1afa0bc66f32532d62ebac1f0f55adfa?s=280" width="150" alt="Foto de Matheus Antonio Vivas Rocha" />
+
 # Matheus Antonio Vivas Rocha
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=580&lines=Engenharia%20El%C3%A9trica%20%40%20EESC-USP%20%E2%9A%A1;Sistemas%20de%20Pot%C3%AAncia%20%26%20Simula%C3%A7%C3%A3o%20Computacional;Criador%20do%20pynatem%20%F0%9F%93%A6;Do%20fluxo%20de%20pot%C3%AAncia%20ao%20ESP32%20%F0%9F%94%8C" alt="Frases animadas sobre o perfil de Matheus Vivas Rocha" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=580&lines=Engenharia%20El%C3%A9trica%20%40%20EESC-USP%20%E2%9A%A1;Sistemas%20de%20Pot%C3%AAncia%20%26%20Simula%C3%A7%C3%A3o%20Computacional;Criador%20do%20pynatem%20%F0%9F%93%A6;Do%20fluxo%20de%20pot%C3%AAncia%20ao%20ESP32%20%F0%9F%94%8C" alt="Frases animadas sobre o perfil de Matheus Antonio Vivas Rocha" />
 
 [![X](https://img.shields.io/badge/X-%40matheusvivasr-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/matheusvivasr)
 [![Email](https://img.shields.io/badge/email-vivas.matheus%40usp.br-blue?style=flat&logo=gmail&logoColor=white)](mailto:vivas.matheus@usp.br)
@@ -15,14 +17,16 @@
 
 ### 👋 Sobre mim
 
-**Engenharia Elétrica** na **EESC‑USP** (São Carlos), com foco em **sistemas de potência computacionais**.
+**Engenharia Elétrica** na **EESC‑USP** (São Carlos), com foco em **sistemas de potência computacionais** — e uma queda por resolver problemas de **ponta a ponta**, do modelo matemático ao ferro que fica na parede.
 
-Desenvolvo bibliotecas open‑source em Python que conversam com os principais simuladores do setor elétrico brasileiro — **ANAREDE** (fluxo de potência) e **ANATEM** (estabilidade eletromecânica transitória), ambos do CEPEL — e, nas horas vagas, levo o mesmo rigor para o **hardware**: firmware em ESP32 e ferramentas de linguagem.
+Desenvolvo bibliotecas open‑source em Python que conversam com os principais simuladores do setor elétrico brasileiro — **ANAREDE** (fluxo de potência) e **ANATEM** (estabilidade eletromecânica transitória), ambos do CEPEL — e, nas horas vagas, levo o mesmo rigor para o **hardware** (ESP32) e para a **linguagem da HP Prime**.
 
 - 🔭 `pynatem` publicado e estável no PyPI — a base do que faço em simulação
-- 🔌 Do software ao ferro: firmware ESP32 (ESP‑NOW, sensores capacitivos, SSR) e uma extensão de VS Code
+- 🔌 Do software ao ferro: firmware **ESP32** (ESP‑NOW, sensores capacitivos, SSR 220 V, deep sleep)
+- 🧮 Entusiasta de **HP Prime** — fiz linter, extensão de VS Code e automação para a linguagem **PPL**
+- 🐢 Até o abrigo de um **jabuti** virou projeto de ESP32 (controle térmico + *fail‑safe*)
 - 🦈 Pull Shark no GitHub — PRs mesclados em outros projetos
-- 💬 Fale comigo sobre **sistemas de potência, simulação computacional, Python científico ou embarcados**
+- 💬 Fale comigo sobre **sistemas de potência, simulação, Python científico ou embarcados**
 
 ---
 
