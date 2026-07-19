@@ -2,8 +2,6 @@
 
 <img src="assets/banner-jabuti.jpg" width="100%" alt="Banner: um jabuti-piranga comendo folhas de couve" />
 
-<img src="https://www.gravatar.com/avatar/1afa0bc66f32532d62ebac1f0f55adfa?s=280" width="150" alt="Foto de Matheus Antonio Vivas Rocha" />
-
 # Matheus Antonio Vivas Rocha
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=580&lines=Engenharia%20El%C3%A9trica%20%40%20EESC-USP%20%E2%9A%A1;Sistemas%20de%20Pot%C3%AAncia%20%26%20Simula%C3%A7%C3%A3o%20Computacional;Criador%20do%20pynatem%20%F0%9F%93%A6;Do%20fluxo%20de%20pot%C3%AAncia%20ao%20ESP32%20%F0%9F%94%8C" alt="Frases animadas sobre o perfil de Matheus Antonio Vivas Rocha" />
