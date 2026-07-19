@@ -124,7 +124,7 @@ def main() -> int:
     text = open(README, encoding="utf-8").read()
     before = text
     if location:
-        text = replace_between(text, "location", f"{location} 🇧🇷")
+        text = replace_between(text, "location", location)
     text = replace_between(text, "links", build_links(entry.get("accounts", [])))
     changed_txt = text != before
     if changed_txt:
