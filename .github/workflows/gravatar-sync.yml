@@ -1,0 +1,41 @@
+name: Sincronizar Gravatar
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # todo dia ~06:00 UTC
+  workflow_dispatch:       # botão "Run workflow" na aba Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gravatar-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install --quiet Pillow
+
+      - name: Rodar sincronização
+        run: python scripts/sync_gravatar.py
+
+      - name: Commit se houver mudança
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            git commit -m "chore: sincroniza README com o Gravatar"
+            git push
+          else
+            echo "Nada a atualizar."
+          fi

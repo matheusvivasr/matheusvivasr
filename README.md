@@ -1,18 +1,22 @@
 <div align="center">
 
+<img src="assets/banner-jabuti.jpg" width="100%" alt="Banner: um jabuti-piranga comendo folhas de couve" />
+
 <img src="https://www.gravatar.com/avatar/1afa0bc66f32532d62ebac1f0f55adfa?s=280" width="150" alt="Foto de Matheus Antonio Vivas Rocha" />
 
 # Matheus Antonio Vivas Rocha
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=580&lines=Engenharia%20El%C3%A9trica%20%40%20EESC-USP%20%E2%9A%A1;Sistemas%20de%20Pot%C3%AAncia%20%26%20Simula%C3%A7%C3%A3o%20Computacional;Criador%20do%20pynatem%20%F0%9F%93%A6;Do%20fluxo%20de%20pot%C3%AAncia%20ao%20ESP32%20%F0%9F%94%8C" alt="Frases animadas sobre o perfil de Matheus Antonio Vivas Rocha" />
 
+<!-- gravatar:links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matheusvivasr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusvivasr)
+<!-- /gravatar:links -->
 [![X](https://img.shields.io/badge/X-%40matheusvivasr-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/matheusvivasr)
 [![Email](https://img.shields.io/badge/email-vivas.matheus%40usp.br-blue?style=flat&logo=gmail&logoColor=white)](mailto:vivas.matheus@usp.br)
 ![Followers](https://img.shields.io/github/followers/matheusvivasr?label=followers&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=matheusvivasr&label=Profile%20views&color=1D9E75&style=flat)
 
-📍 São Carlos – SP, Brasil 🇧🇷
+📍 <!-- gravatar:location -->São Carlos - SP 🇧🇷<!-- /gravatar:location -->
 
 </div>
 
@@ -30,6 +34,11 @@ Desenvolvo bibliotecas open‑source em Python que conversam com os principais s
 - 🐢 Até o abrigo de um **jabuti** virou projeto de ESP32 (controle térmico + *fail‑safe*)
 - 🦈 Pull Shark no GitHub — PRs mesclados em outros projetos
 - 💬 Fale comigo sobre **sistemas de potência, simulação, Python científico ou embarcados**
+
+<table align="center"><tr><td align="center">
+<img src="assets/jabuti.jpg" width="150" alt="O jabuti do Matheus" /><br>
+<sub>🐢 o astro do projeto <a href="https://github.com/matheusvivasr/basking-spot"><code>basking-spot</code></a></sub>
+</td></tr></table>
 
 ---
 
