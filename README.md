@@ -91,6 +91,11 @@ pip install pynatem
 ### 📊 GitHub stats
 
 <div align="center">
+<img height="165" src="https://github-readme-stats-flax-seven-17.vercel.app/api?username=matheusvivasr&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de matheusvivasr" />
+<img height="165" src="https://github-readme-stats-flax-seven-17.vercel.app/api/top-langs/?username=matheusvivasr&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas por matheusvivasr" />
+</div>
+
+<div align="center">
 <img src="https://streak-stats.demolab.com/?user=matheusvivasr&theme=tokyonight&hide_border=true" alt="Streak de contribuições de matheusvivasr" />
 </div>
 
