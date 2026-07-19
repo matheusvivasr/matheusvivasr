@@ -30,7 +30,7 @@
 - ⚡ Simulação de **sistemas de potência** (ANATEM / ANAREDE)
 - 🔌 Firmware **ESP32** — ESP‑NOW, sensores, deep sleep
 - 🧮 Ferramentas para **HP Prime** (linguagem PPL)
-- 🐢 Até o abrigo da **Faustina** 🐢 virou projeto de ESP32
+- 🐢 Até o abrigo de **Faustina** virou projeto de ESP32
 - 🦈 **Pull Shark** — PRs mesclados em outros projetos
 - 💬 Fale comigo sobre **potência, simulação, Python ou embarcados**
 
@@ -63,7 +63,7 @@ pip install pynatem
 
 **🔌 Hardware & Embarcados**
 - **[caixa-dagua](https://github.com/matheusvivasr/caixa-dagua)** — nível de caixa d'água **sem contato**: 2× ESP32‑C3, sensores capacitivos, ESP‑NOW + deep sleep, site em tempo real
-- **[basking-spot](https://github.com/matheusvivasr/basking-spot)** — controle térmico e de fotoperíodo do recinto da Faustina: ESP32‑S3, NTC10K, SSR 220 V, *fail‑safe*
+- **[basking-spot](https://github.com/matheusvivasr/basking-spot)** — controle térmico e de fotoperíodo do recinto de Faustina: ESP32‑S3, NTC10K, SSR 220 V, *fail‑safe*
 
 **🧰 Ferramentas & DevTools**
 - **[hp-prime-ppl](https://github.com/matheusvivasr/hp-prime-ppl)** — extensão de VS Code para a linguagem **PPL** (realce, linter, ~700 comandos)
@@ -100,5 +100,5 @@ pip install pynatem
 ---
 
 <div align="center">
-<sub>⚡ Do fluxo de potência ao ESP32 — e à Faustina 🐢</sub>
+<sub>⚡ Do fluxo de potência ao ESP32 — e Faustina 🐢</sub>
 </div>
