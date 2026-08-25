@@ -68,6 +68,7 @@ pip install pynatem
 **🧰 Ferramentas & DevTools**
 - **[hp-prime-ppl](https://github.com/matheusvivasr/hp-prime-ppl)** — extensão de VS Code para a linguagem **PPL** (realce, linter, ~700 comandos)
 - **[hp-prime-automation](https://github.com/matheusvivasr/hp-prime-automation)** — automação do HP Connectivity Kit / Virtual Calculator (pyautogui)
+- **[prumo](https://github.com/matheusvivasr/prumo)** — camada de abstração para automação determinística de GUI, API semântica pronta para agentes/LLMs
 - **[Conversor-de-Unidades](https://github.com/matheusvivasr/Conversor-de-Unidades)** — conversor de unidades em Python (GTK+ / Glade)
 - **[SEL0456](https://github.com/matheusvivasr/SEL0456)** · **[CalcNum](https://github.com/matheusvivasr/CalcNum)** — códigos de disciplinas da EESC‑USP
 
